@@ -13,7 +13,7 @@ class Project0:
         What this method does
         :return: none
         '''
-        message = "hello world"
+        message = "Howdy Globe"
         print(message)
 
 
